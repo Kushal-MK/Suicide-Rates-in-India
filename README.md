@@ -1,6 +1,6 @@
 # Suicide-Rates-in-India
 
-In this project, we are analyzing the suicide dataset. The dataset consists of data about the number of people who have committed suicide during the period between 2001 and 2012, the state that they are from, the year, the cause, their educational qualification, their social status, their profession, their age, and the means they adopted to commit suicide.
+In this project, the suicide dataset of India is being analysed. The dataset consists of data about the number of people who have committed suicide during the period between 2001 and 2012, the state that they are from, the year, the cause, their educational qualification, their social status, their profession, their age, and the means they adopted to commit suicide.
 
 Suicide is the third leading cause of death among young adults worldwide. There is a growing recognition that prevention strategies need to be tailored to the region-specific demographics of a country and to be implemented in a culturally-sensitive manner. This review explores the historical, epidemiological and demographic factors of suicide in India.
 
